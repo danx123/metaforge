@@ -12,7 +12,11 @@ MetaForge is a desktop application for injecting accurate, camera-authentic EXIF
 
 ## Screenshots
 
-<img width="1365" height="767" alt="Screenshot 2026-04-27 145008" src="https://github.com/user-attachments/assets/850f8984-c318-428c-b60f-0587c363658c" />
+<img width="1365" height="767" alt="Screenshot 2026-04-27 200644" src="https://github.com/user-attachments/assets/24bbea26-d638-4acb-b7a0-aba579464295" />
+
+<img width="1365" height="767" alt="Screenshot 2026-04-27 200655" src="https://github.com/user-attachments/assets/b6cf148b-1d5d-43f2-b99b-72f9da95feb7" />
+
+
 
 
 ---
