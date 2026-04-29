@@ -1,8 +1,8 @@
 # MetaForge
 
-**Professional Image Metadata Injector**
+**Professional Image Metadata Injector & AI Fingerprint Detector**
 
-MetaForge is a desktop application for injecting accurate, camera-authentic EXIF metadata into JPEG and PNG images. Built with PySide6, it features a curated database of 33 real-world camera presets spanning Sony, Canon, Nikon, Fujifilm, Leica, Hasselblad, Phase One, DJI, and more — covering everything from smartphone sensors to 150MP medium format systems.
+MetaForge is a desktop application for injecting accurate, camera-authentic EXIF metadata into JPEG and PNG images & AI Fingerprint Detector. Built with PySide6, it features a curated database of 33 real-world camera presets spanning Sony, Canon, Nikon, Fujifilm, Leica, Hasselblad, Phase One, DJI, and more — covering everything from smartphone sensors to 150MP medium format systems.
 
 > **Note on this repository:**
 > The source code published here is the **base reference implementation** — it reflects the architecture, core logic, and engineering decisions behind MetaForge, but may not match the feature set or UI of the current released version.
