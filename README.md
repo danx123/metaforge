@@ -12,9 +12,11 @@ MetaForge is a desktop application for injecting accurate, camera-authentic EXIF
 
 ## Screenshots
 
-<img width="1365" height="767" alt="Screenshot 2026-04-27 200644" src="https://github.com/user-attachments/assets/24bbea26-d638-4acb-b7a0-aba579464295" />
+<img width="1365" height="767" alt="Screenshot 2026-04-29 184905" src="https://github.com/user-attachments/assets/52d1296c-ca35-46cc-8636-66a02ed1b247" />
 
-<img width="1365" height="767" alt="Screenshot 2026-04-27 200655" src="https://github.com/user-attachments/assets/b6cf148b-1d5d-43f2-b99b-72f9da95feb7" />
+<img width="1365" height="767" alt="Screenshot 2026-04-29 185047" src="https://github.com/user-attachments/assets/470ffaa5-b721-4776-80eb-1bf6cd153385" />
+
+
 
 
 
@@ -39,6 +41,7 @@ MetaForge is a desktop application for injecting accurate, camera-authentic EXIF
 - Downsamples images to ≤2MP before statistical analysis — **~30× faster** on high-resolution files while reporting original resolution accurately
 - Returns ranked top-5 matches with confidence scores displayed as visual score bars
 - One-click apply best match
+- AI Fingerprint Detection
 
 ### Batch Processing
 - Queue multiple inject jobs, each with independent preset selection and parameter overrides
